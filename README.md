@@ -23,11 +23,11 @@ JQuery
 <br>
 
 # Me Contate 
-| (81) 9 8669-8525
+Telefone: | (81) 9 8669-8525
 <br>
-|  https://www.linkedin.com/in/anna-maria-573801191/
+LinkedIn: |  https://www.linkedin.com/in/anna-maria-573801191/
 <br>
-| https://www.linkedin.com/in/anna-maria-573801191/
+Email: | aannamariabr@outlook.com
 <br>
 
 # Meu Portfólio : https://imnotannamaria.github.io/Portfolio/
