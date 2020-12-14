@@ -4,21 +4,21 @@
 <h4>Música 🎸 | Programação 💻 | Jogos 🎮</h4>
 
 # Sobre mim 🔎
-🔶 Idade:  18 anos
+✨ Idade:  18 anos
 <br>
-🔶 Endereço: Vitória de Santo Antão - PE 
+✨ Endereço: Vitória de Santo Antão - PE 
 <br>
-🔶 Formação: Sistemas de Informação (2019-2022)
+✨ Formação: Sistemas de Informação (2019-2022)
 <br>
 
 # Minhas Habilidades 💻
-💫 HTML
+✨ HTML
 <br>
-💫 CSS
+✨ CSS
 <br>
-💫 JavaScript
+✨ JavaScript
 <br>
-💫 JQuery
+✨ JQuery
 <br>
 
 # Me Contate 📧
