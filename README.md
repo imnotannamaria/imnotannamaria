@@ -1,6 +1,9 @@
 # Olá 
-###Meu nome é Anna Maria e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack.
-####Música | Programação 💻
+Meu nome é Anna Maria e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack.
+<br>
+<br>
+<br>
+Música | Programação 💻
 
 # Sobre mim 
 Idade:  18 anos
