@@ -1,5 +1,5 @@
 # Olá 
-Meu nome é Anna Maria e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack.
+Meu nome é <b>Anna Maria<b> e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack.
 <br>
 <br>
 Música | Programação 💻
