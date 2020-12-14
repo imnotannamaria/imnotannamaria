@@ -24,7 +24,7 @@
 # Me Contate 📧
 ✨ Telefone: | (81) 9 8669-8525
 <br>
-✨ LinkedIn: |  <h5 target: "_blank">https://www.linkedin.com/in/anna-maria-573801191/</h5>
+✨ LinkedIn: | https://www.linkedin.com/in/anna-maria-573801191/
 <br>
 ✨ Email: | aannamariabr@outlook.com
 <br>
