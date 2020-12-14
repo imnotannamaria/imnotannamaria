@@ -1,8 +1,7 @@
 # Olá 
 <h3>Meu nome é <b>Anna Maria<b> e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack.</h3>
-<br>
-<br>
-Música | Programação 💻
+
+<h4>Música | Programação 💻</h4>
 
 # Sobre mim 
 Idade:  18 anos
