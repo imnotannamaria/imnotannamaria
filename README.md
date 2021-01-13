@@ -29,4 +29,4 @@
 
 <h2> Meu Portfólio : https://imnotannamaria.github.io/Portfolio/ </h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnotannamaria&show_icons=true&theme=radical)
