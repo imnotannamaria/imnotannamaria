@@ -30,5 +30,6 @@
 <h2> Meu Portfólio : https://imnotannamaria.github.io/Portfolio/ </h2>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnotannamaria&show_icons=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotannamaria)](https://github.com/anuraghazra/github-readme-stats)
 
