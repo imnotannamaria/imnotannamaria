@@ -20,6 +20,8 @@
 <br>
 ✨ JQuery
 <br>
+✨ React
+<br>
 
 # Me Contate 📧
 ✨ LinkedIn: | https://www.linkedin.com/in/anna-maria-573801191/
