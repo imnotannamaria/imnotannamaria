@@ -35,4 +35,21 @@
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotannamaria)](https://github.com/anuraghazra/github-readme-stats)
+<table border="1">
+    <tr>
+        <td>Nome</td>
+        <td>Idade</td>
+        <td>Profissão</td>
+    </tr>
+    <tr>
+        <td>Ted</td>
+        <td>22</td>
+        <td>Estudante</td>
+    </tr>
+    <tr>
+        <td>Ralf</td>
+        <td>26</td>
+        <td>Designer</td>
+    </tr>
+</table>
 
