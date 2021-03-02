@@ -31,25 +31,14 @@
 
 <h2> Meu Portfólio : https://imnotannamaria.github.io/Portfolio/ </h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnotannamaria&show_icons=true&theme=radical)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotannamaria)](https://github.com/anuraghazra/github-readme-stats)
-<table border="1">
+<table>
     <tr>
-        <td>Nome</td>
-        <td>Idade</td>
-        <td>Profissão</td>
+        ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnotannamaria&show_icons=true&theme=radical)
     </tr>
     <tr>
-        <td>Ted</td>
-        <td>22</td>
-        <td>Estudante</td>
-    </tr>
-    <tr>
-        <td>Ralf</td>
-        <td>26</td>
-        <td>Designer</td>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotannamaria)](https://github.com/anuraghazra/github-readme-stats)
     </tr>
 </table>
 
