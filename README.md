@@ -33,12 +33,7 @@
 
 <br>
 <br>
-<table>
-    <tr>
-        ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnotannamaria&show_icons=true&theme=radical)
-    </tr>
-    <tr>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotannamaria)](https://github.com/anuraghazra/github-readme-stats)
-    </tr>
-</table>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnotannamaria&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotannamaria)](https://github.com/anuraghazra/github-readme-stats)
+
 
