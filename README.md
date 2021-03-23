@@ -25,8 +25,9 @@
 
 
 # Me Contate 📧
-<img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />
-LinkedIn: | https://www.linkedin.com/in/anna-maria-573801191/
+
+<a href="https://www.linkedin.com/in/anna-maria-573801191/"><img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" /></a>
+LinkedIn: | 
 <br>
 ✨ Email: | aannamariabr@outlook.com
 <br>
