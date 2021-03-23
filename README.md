@@ -28,6 +28,8 @@
 
 <a href="https://www.linkedin.com/in/anna-maria-573801191/"><img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" /></a>
 <a href="malito:aannamariabr@outlook.com"><img src="https://emojis.slackmojis.com/emojis/images/1575572436/7257/ggmailcom.png?1575572436" /></a>
+<a href="malito:aannamariabr@outlook.com"><img src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" /></a>
+<a href="malito:aannamariabr@outlook.com"><img src="https://emojis.slackmojis.com/emojis/images/1536347295/4590/discord.png?1536347295" /></a>
 
 
 <h2> Meu Portfólio : https://imnotannamaria.github.io/Portfolio/ </h2>
