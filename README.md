@@ -1,7 +1,7 @@
-# Olá 🌟 <img src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" />
+# Olá 🌟
+<img src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" />
 
-
-<h3>Meu nome é <b>Anna Maria<b> e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack.</h3>
+<h3>Meu nome é <b>Anna Maria<b> e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack. Atualmente sou estagiária na Ananade Brasil</h3>
 
 <h4>Música 🎸 | Programação 💻 | Jogos 🎮</h4>
 
