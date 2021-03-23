@@ -2,7 +2,6 @@
 
 <h3>Olá, Meu nome é <b>Anna Maria<b> e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack. Atualmente sou estagiária na Ananade Brasil</h3>
 
-<br>
 # Sobre mim 🔎
 ✨ Idade:  18 anos
 <br>
