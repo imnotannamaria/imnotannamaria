@@ -27,11 +27,13 @@
 # Me Contate 📧
 
 <a href="https://www.linkedin.com/in/anna-maria-573801191/"><img width="50px" height="50px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" /></a>
+<h5>LinkedIn: Anna Maria<h5>
 <br>
 <a href="malito:aannamariabr@outlook.com"><img width="50px" height="50px" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" /></a>
 <h5>Email: aannamariabr@outlook.com<h5>
 <br>
 <a href="https://www.instagram.com/imnotannamaria/"><img width="50px" height="50px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" /></a>
+<h5>Instagram: imnotannamaria<h5>
 <br>
 <a href=""><img width="50px" height="50px" src="https://emojis.slackmojis.com/emojis/images/1536347295/4590/discord.png?1536347295" /></a>
 <h5>Discord: imnotannamaria#1935<h5>
