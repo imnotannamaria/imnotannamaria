@@ -27,10 +27,8 @@
 # Me Contate 📧
 
 <a href="https://www.linkedin.com/in/anna-maria-573801191/"><img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" /></a>
-LinkedIn: | 
-<br>
-✨ Email: | aannamariabr@outlook.com
-<br>
+<a href="malito:aannamariabr@outlook.com"><img src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" /></a>
+
 
 <h2> Meu Portfólio : https://imnotannamaria.github.io/Portfolio/ </h2>
 
