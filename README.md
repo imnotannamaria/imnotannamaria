@@ -3,11 +3,11 @@
 <h1 align="center">Sobre mim 🔎</h1>
 <h3>Olá, Meu nome é <b>Anna Maria<b> e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack. Atualmente sou estagiária na Ananade Brasil</h3>
 
-<p align="center">✨ Idade:  18 anos</p>
+<p>✨ Idade:  18 anos</p>
 <br>
-<p align="center">✨ Endereço: Vitória de Santo Antão - PE </p>
+<p>✨ Endereço: Vitória de Santo Antão - PE </p>
 <br>
-<p align="center">✨ Formação: Sistemas de Informação (2019-2022)</p>
+<p>✨ Formação: Sistemas de Informação (2019-2022)</p>
 <br>
 
 <h1 align="center"> Minhas Habilidades 💻🚀 </h1>
