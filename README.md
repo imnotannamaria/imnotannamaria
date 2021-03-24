@@ -1,8 +1,8 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" />
 
-<h3>Olá, Meu nome é <b>Anna Maria<b> e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack. Atualmente sou estagiária na Ananade Brasil</h3>
 <h1 align="center">Sobre mim 🔎</h1>
-  
+<h3>Olá, Meu nome é <b>Anna Maria<b> e eu estou em uma jornada para me tornar uma desenvolvedora Full-Stack. Atualmente sou estagiária na Ananade Brasil</h3>
+
 <p align="center">✨ Idade:  18 anos</p>
 <br>
 <p align="center">✨ Endereço: Vitória de Santo Antão - PE </p>
