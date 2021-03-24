@@ -38,7 +38,7 @@
 <a href="https://www.instagram.com/imnotannamaria/"><img width="50px" height="50px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" /></a>
 <h5>Instagram: imnotannamaria<h5>
 <br>
-<a href=""><img width="50px" height="50px" src="https://emojis.slackmojis.com/emojis/images/1536347295/4590/discord.png?1536347295" /></a>
+<a href=""><img width="60px" height="60px" src="https://emojis.slackmojis.com/emojis/images/1536347295/4590/discord.png?1536347295" /></a>
 <h5>Discord: imnotannamaria#1935<h5>
 
 
