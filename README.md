@@ -12,7 +12,7 @@ var dev = {
     "Info": {
         "age": 19,
         "address": "Vitória de Santo Antão - PE",
-        "formation": "Formação: Sistemas de Informação (2019-2022)",
+        "formation": Sistemas de Informação (2019-2022)",
         "homepage": "https://imnotannamaria.github.io/Portfolio/"
     }
     
