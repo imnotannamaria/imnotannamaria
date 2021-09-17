@@ -10,11 +10,21 @@ var developer = {
         "instagram": "https://www.instagram.com/imnotannamaria/"
     },
     "Info": {
-        age: 19,
-        address: "Vitória de Santo Antão - PE",
-        formation: "Formação: Sistemas de Informação (2019-2022)",
+        "age": 19,
+        "address": "Vitória de Santo Antão - PE",
+        "formation": "Formação: Sistemas de Informação (2019-2022)",
         "homepage": "https://imnotannamaria.github.io/Portfolio/"
+    },
+    "skills": {
+        "name": "JavaScript",
+        "name": "React",
+        "name": "HTML",
+        "name": "CSS",
+        "name": "C#",
+        "name": "ChatBot",
     }
+    
+    
 }
 console.log(developer)
 ```
