@@ -3,7 +3,7 @@
 <br>
 
 ```javascript
-var developer = {
+var dev = {
     "name": "Anna Maria",
     "profiles": {
         "linkedIn": "https://www.linkedin.com/in/imnotannamaria/",
@@ -14,19 +14,10 @@ var developer = {
         "address": "Vitória de Santo Antão - PE",
         "formation": "Formação: Sistemas de Informação (2019-2022)",
         "homepage": "https://imnotannamaria.github.io/Portfolio/"
-    },
-    "skills": {
-        "name": "JavaScript",
-        "name": "React",
-        "name": "HTML",
-        "name": "CSS",
-        "name": "C#",
-        "name": "ChatBot",
     }
     
-    
 }
-console.log(developer)
+console.log(dev)
 ```
 
 
