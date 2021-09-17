@@ -1,3 +1,6 @@
+
+
+```javascript
 var developer = {
     "name": "Anna Maria",
     "profiles": {
@@ -7,8 +10,7 @@ var developer = {
         "homepage": "https://imnotannamaria.github.io/Portfolio/"
 }
 console.log(developer)
-
-
+```
 
 
 
