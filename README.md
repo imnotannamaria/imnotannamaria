@@ -28,3 +28,4 @@ console.log(dev)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotannamaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotannamaria)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
