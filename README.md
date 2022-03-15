@@ -11,7 +11,7 @@ var dev = {
     },
     "Info": {
         "age": 19,
-        "address": "Vitória de Santo Antão - PE",
+        "address": "Tamandaré - PE",
         "formation": "Information system (2019-2022)",
         "homepage": "https://imnotannamaria.github.io/Portfolio/"
     }
