@@ -1,5 +1,5 @@
 
-<h1>Anna Maria | Assoc. Full Stack Dev at Avanade</h1>
+<h1>Anna Maria | Full Stack Dev at Avanade</h1>
 <br>
 
 ```javascript
