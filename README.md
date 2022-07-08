@@ -12,7 +12,7 @@
 </div>
 
 ###
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills </h2>
 
 ###
 <div align="left">
@@ -54,7 +54,7 @@
 
 <div align="left">
 
-## 🔗 My Portfolio
+## My Portfolio 🔗 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-react-imnotannamaria.vercel.app/)
 
 
