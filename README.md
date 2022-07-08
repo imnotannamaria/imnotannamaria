@@ -52,6 +52,14 @@
   </a>
 </div>
 
+<div align="left">
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-react-imnotannamaria.vercel.app/)
+
+
+</div>
+
 ###
 <h2 align="left">Stats 📊</h2>
 
