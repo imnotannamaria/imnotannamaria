@@ -4,7 +4,16 @@
 <h2 align="left">About me 🔎</h2>
 
 ###
-<p align="left">Hello ✨, my name is Anna Maria I am 20 years old and I am a full-stack developer.<br>In 2019 as soon as I finished high school at the age of 16, I decided to start studying Information System.<br>In 2020 I started studying HTML, CSS, JavaScript and React, I fell in love and decided that I would go deeper into web development.<br>In early 2021 I got an internship at Avanade Brasil where I'm still working, here at Avanade I work in the automation and ChatBot area.<br>I'm currently studying Python and the Django framework and I'm also constantly learning both web development (HTML, CSS, REACT) and ChatBot and all the automation stuff.</p>
+<p align="left">Hello , my name is Anna Maria I am 20 years old and I am a full-stack developer.
+In 2019, as soon as I finished high school at age 16, I decided to start studying 
+Information System.
+In 2020 I started studying HTML, CSS, JavaScript and React, I fell in love and decided 
+that I would go deeper into web development.
+In early 2021 I got an internship at Avanade Brasil where I'm still working, here at 
+Avanade I work in the automation and ChatBot area.
+Currently I continue to constantly learn both web development (REACT, NodeJS) and ChatBot 
+and all the automation part.
+</p>
 
 ###
 <div align="center">
