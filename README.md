@@ -17,7 +17,7 @@ and all the automation part.
 
 ###
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif"  />
+  <img height="200" src="https://media.tenor.com/EaMqPlp1br0AAAAC/sky-stars.gif"  />
 </div>
 
 ###
