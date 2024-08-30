@@ -4,7 +4,7 @@
 <h2 align="left">About me 🔎</h2>
 
 ###
-<p align="left">Hello , my name is Anna Maria I am 20 years old and I am a full-stack developer.
+<p align="left">Hello , my name is Anna Maria I am 22 years old and I am a full-stack developer.
 In 2019, as soon as I finished high school at age 16, I decided to start studying 
 Information System.
 In 2020 I started studying HTML, CSS, JavaScript and React, I fell in love and decided 
