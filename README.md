@@ -9,5 +9,3 @@
 Hi there! I'm Anna Maria, a Full-Stack Developer with a deep interest in artificial intelligence and a commitment to continuous growth. I specialize in building innovative solutions using modern web technologies, and I'm particularly passionate about projects that integrate AI to address real-world challenges.
 
 **Check out my portfolio to see some of my work:** [Your Portfolio Link Here](https://anna-maria-portfolio.vercel.app/)
-
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnotannamaria&show_icons=true&theme=radical)
