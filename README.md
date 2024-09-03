@@ -1,79 +1,13 @@
-<h1 align="left">Hi all. I am Anna Maria 👩🏽‍💻💜</h1>
+# Anna Maria
 
-###
-<h2 align="left">About me 🔎</h2>
-
-###
-<p align="left">Hello , my name is Anna Maria I am 22 years old and I am a full-stack developer.
-In 2019, as soon as I finished high school at age 16, I decided to start studying 
-Information System.
-In 2020 I started studying HTML, CSS, JavaScript and React, I fell in love and decided 
-that I would go deeper into web development.
-In early 2021 I got an internship at Avanade Brasil where I'm still working, here at 
-Avanade I work in the automation and ChatBot area.
-Currently I continue to constantly learn both web development (REACT, NodeJS) and ChatBot 
-and all the automation part.
-</p>
-
-###
-<div align="center">
-  <img height="200" src="https://media.tenor.com/EaMqPlp1br0AAAAC/sky-stars.gif"  />
-</div>
-
-###
-<h2 align="left">Skills </h2>
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52"  alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" width="52" alt="babel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-</div>
-
-###
-<h2 align="left">Social 📢</h2>
-
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/imnotannamaria/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="imnotannamaria#3939" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/imnotannamaria/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:aannamariabr@outlook.com?subject=Hello%20again" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-<div align="left">
-
-## My Portfolio 🔗 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-react-imnotannamaria.vercel.app/)
+### Software Engineer - Full Stack (React | Python | C#)
 
 
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/-Anna%20Maria-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-maria/)](https://www.linkedin.com/in/imnotannamaria/) 
+[![Gmail Badge](https://img.shields.io/badge/-annamaria@example.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annamaria@example.com)](mailto:aannamariabr@outlook.com)
 
-###
-<h2 align="left">Stats 📊</h2>
+Hi there! I'm Anna Maria, a Full-Stack Developer with a deep interest in artificial intelligence and a commitment to continuous growth. I specialize in building innovative solutions using modern web technologies, and I'm particularly passionate about projects that integrate AI to address real-world challenges.
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=imnotannamaria" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=imnotannamaria" height="150" alt="languages graph"  />
-</div>
+**Check out my portfolio to see some of my work:** [Your Portfolio Link Here](https://anna-maria-portfolio.vercel.app/)
+
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnotannamaria&show_icons=true&theme=radical)
