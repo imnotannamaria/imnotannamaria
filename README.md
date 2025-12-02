@@ -11,7 +11,7 @@
 - 🎓 **Information Systems** at Descomplica (2021–Dec 2025)
 - 💼 **Full-Stack Developer** | React • Next.js • Python
 - 📊 **97,000+ chatbot interactions** | **44% response time improvement**
-- 
+  
 ## 💻 Tech Stack
 
 **Languages:** Python • JavaScript • TypeScript • C# • SQL  
