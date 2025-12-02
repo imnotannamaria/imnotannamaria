@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anna Maria
+# Hi there! 👋🏽 I'm Anna Maria
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imnotannamaria/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anna-maria-portfolio.vercel.app/)
