@@ -33,7 +33,7 @@ Ready to collaborate on innovative projects or discuss tech, architecture, and b
 
 - 💼 [LinkedIn](https://linkedin.com/in/imnotannamaria/)
 - 🌐 [Portfolio](https://anna-maria-portfolio.vercel.app/)
-- 📧 [Email](mailto:aannamariabr@outlook.com)
+- 📧 [Email](mailto:anna.maria.dev.br@gmail.com)
 
 ---
 
