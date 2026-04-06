@@ -9,14 +9,14 @@
 **Full-Stack Software Engineer** with 5 years of experience building SaaS and AI products. Currently at **CESAR** developing complex ESG platforms and intelligent automation. Passionate about clean code, system architecture, and scalable cloud solutions.
 
 * 🎓 **Postgraduate in AI Engineering** at FIAP (Expected 2027)
-* 💼 **Full-Stack Software Engineer** | Python • TypeScript • React • C#
+* 💼 **Full-Stack Software Engineer** | Python • TypeScript • React • NextJS
 * 📊 **97k+ chatbot interactions** | **ESG reporting cut from 3h to 5min**
   
 ## 💻 Tech Stack
 
 - **Languages:** Python • TypeScript • JavaScript • C# • SQL
 - **Frontend:** React • Next.js • Tailwind CSS • Zustand • Redux
-- **Backend:** Django • Node.js • .NET • FastAPI • GraphQL
+- **Backend:** Django • Node.js • .NET • FastAPI • NestJS • GraphQL
 - **AI/LLM:** RAG • LangChain • Prompt Engineering • Azure OpenAI Service
 - **Cloud & Data:** Azure • Docker • PostgreSQL • MongoDB • Pandas • Plotly
 
