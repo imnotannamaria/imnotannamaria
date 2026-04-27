@@ -19,7 +19,7 @@
 ## 🌱 Open Source
 Actively contributing to open source projects, currently focused on developer tooling.
 
-**Goal for 2026: 2/12 contributions & projects** 🎯
+**Goal for 2026: 3/12 contributions & projects** 🎯
 
 For more details, check out my pinned repos or visit my [portfolio](https://anna-maria-dev.vercel.app/projects).
 
