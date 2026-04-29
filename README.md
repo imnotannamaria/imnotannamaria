@@ -1,6 +1,6 @@
 # Hi there! 👋🏽 I'm Anna Maria
 ## 🚀 About Me
-**Full-Stack Software Engineer** with 5 years of experience building SaaS and AI products. Currently at **CESAR** developing complex ESG platforms and intelligent automation. Passionate about clean code, system architecture, and scalable cloud solutions.
+**Full-Stack Software Engineer** with 5 years of experience building SaaS and AI products. Currently at **CESAR**. Passionate about clean code, system architecture, and scalable cloud solutions.
 * 🎓 **Postgraduate in AI Engineering** at FIAP (Expected 2027)
 * 💼 **Full-Stack Software Engineer** | Python • TypeScript • React • NextJS
 
