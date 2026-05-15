@@ -21,11 +21,11 @@ Actively contributing to open source projects, currently focused on developer to
 
 **Goal for 2026: 2/12 contributions & projects** 🎯
 
-For more details, check out my pinned repos or visit my [portfolio](https://anna-maria-dev.vercel.app/projects).
+For more details, check out my pinned repos or visit my [portfolio](https://annamaria.app/).
 
 ## 🤝 Let's Connect!
 I'm always open to discussing tech architecture, AI engineering, and innovative full-stack solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imnotannamaria/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anna-maria-dev.vercel.app//)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://annamaria.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna.maria.dev.br@gmail.com)
