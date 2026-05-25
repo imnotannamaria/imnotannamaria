@@ -1,31 +1,51 @@
-# Hi there! 👋🏽 I'm Anna Maria
-## 🚀 About Me
-**Full-Stack Software Engineer** with 5 years of experience building SaaS and AI products. Currently at **CESAR**. Passionate about clean code, system architecture, and scalable cloud solutions.
-* 🎓 **Postgraduate in AI Engineering** at FIAP (Expected 2027)
-* 💼 **Full-Stack Software Engineer** | Python • TypeScript • React • NextJS
+# Hi, I'm Anna Maria 👋🏽
 
-## 💻 Tech Stack
-- **Languages:** Python • TypeScript • JavaScript • C# • SQL
-- **Frontend:** React • Next.js • Tailwind CSS • Zustand • Redux
-- **Backend:** Django • Node.js • .NET • FastAPI • NestJS • GraphQL
-- **AI/LLM:** RAG • LangChain • Prompt Engineering • Azure OpenAI Service
-- **Cloud & Data:** Azure • Docker • PostgreSQL • MongoDB • Pandas • Plotly
+Full-stack software engineer, 5 years shipping production software end-to-end with **TypeScript**, **React**, and **Python**. Currently at **CESAR**, working on a personal finance fintech: React Native on the front, FastAPI on the back. On the side I'm building [**entrepta**](https://entrepta.vercel.app/), a dark-first design system you copy into your repo. No runtime SDK, no lock-in.
 
-## 🎯 Key Highlights
-* 🌍 **Architected from zero** an ESG Carbon platform for 140+ companies, automating complex GHG Protocol rules.
-* 💬 **Led technical delivery** of a WhatsApp chatbot with 97k+ re-engagements and 44% faster response time (Meta Success Story).
-* 📊 **Automated data pipelines** replacing spreadsheet-heavy workflows with self-serve dashboards.
+I care about owning features end to end, writing tests that actually catch regressions, and the small details that make a tool feel good to use.
 
-## 🌱 Open Source
-Actively contributing to open source projects, currently focused on developer tooling.
+🌐 **Portfolio:** [annamaria.app](https://annamaria.app/) · [LinkedIn](https://linkedin.com/in/imnotannamaria/) · [anna.maria.dev.br@gmail.com](mailto:anna.maria.dev.br@gmail.com)
 
-**Goal for 2026: 3/12 projects** 🎯
+---
 
-For more details, check out my pinned repos or visit my [portfolio](https://annamaria.app/).
+## What I'm up to
 
-## 🤝 Let's Connect!
-I'm always open to discussing tech architecture, AI engineering, and innovative full-stack solutions.
+- 🛠️ Shipping features end to end for a personal finance fintech built on Open Finance (React Native + FastAPI + PostgreSQL)
+- 🎨 Maintaining [**entrepta**](https://entrepta.vercel.app/): 14 copy-paste components, 6 themes, installs with one `npx` command. Accessible and hardened by default.
+- 🎓 Postgraduate in **AI Engineering** at FIAP (Apr 2026, expected 2027)
+- 🌱 **2026 open source challenge:** 12 open source projects (3/12)
+
+---
+
+## Tech I use
+
+```ts
+const stack = {
+  languages: ["TypeScript", "JavaScript", "Python", "C#", "SQL"],
+  frontend:  ["React", "Next.js", "React Native (Expo)", "Tailwind", "Zustand", "Radix UI"],
+  backend:   ["FastAPI", "Django", "Node.js", "NestJS", ".NET"],
+  data:      ["PostgreSQL", "SQL Server", "MongoDB", "Redis", "Plotly", "pandas"],
+  testing:   ["Pytest", "Jest", "Playwright", "Cypress", "SonarQube"],
+  ai:        ["RAG", "LangChain", "Azure OpenAI", "Claude Code"],
+  cloud:     ["Azure", "Docker", "Docker Compose", "CI/CD"],
+};
+```
+
+---
+
+## A few things I've shipped
+
+- 💬 **Co-led** a WhatsApp chatbot for one of Brazil's largest dental care providers. **97k+ user re-engagements in 3 months**, **44% faster** than phone, **+5 NPS points**. Featured in an official WhatsApp Business success story.
+- 🌱 **Owned the frontend architecture** of a B2B SaaS for GHG Protocol compliance reporting (Next.js, Zustand, Tailwind). Built ~25 emission calculators that replaced a ~3-hour specialist workflow with a 5-minute self-service flow.
+- 🧰 Built [**entrepta**](https://entrepta.vercel.app/) end to end with Claude Code as primary pair: design system, CLI, docs site, accessibility and security hardening.
+
+---
+
+## Let's talk
+
+📍 Brazil · Remote-first  
+📬 [anna.maria.dev.br@gmail.com](mailto:anna.maria.dev.br@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imnotannamaria/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://annamaria.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna.maria.dev.br@gmail.com)
+[![Portfolio](https://img.shields.io/badge/annamaria.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://annamaria.app/)
+[![entrepta](https://img.shields.io/badge/entrepta-7C6BFF?style=for-the-badge&logo=react&logoColor=white)](https://entrepta.vercel.app/)
