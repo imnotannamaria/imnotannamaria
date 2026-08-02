@@ -11,7 +11,7 @@ I care about owning features end to end, writing tests that actually catch regre
 ## What I'm up to
 
 - 🛠️ Shipping features end to end for a personal finance fintech built on Open Finance (React Native + FastAPI + PostgreSQL)
-- 🎨 Maintaining [**entrepta**](https://entrepta.vercel.app/): 14 copy-paste components, 6 themes, installs with one `npx` command. Accessible and hardened by default.
+- 🎨 Maintaining [**entrepta**](https://entrepta.vercel.app/): 16 copy-paste components, 6 themes, installs with one `npx` command. Accessible and hardened by default.
 - ⌚ Building [**wristkit**](https://wristkit-web.vercel.app/): Apple Health data on your website — copy-paste React components, your own Supabase, zero telemetry.
 - 🎓 Postgraduate in **AI Engineering** at FIAP (Apr 2026, expected 2027)
 - 🌱 **2026 open source challenge:** 6 open source projects (4/6)
