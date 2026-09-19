@@ -52,3 +52,5 @@ const stack = {
 [![Portfolio](https://img.shields.io/badge/annamaria.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://annamaria.app/)
 [![entrepta](https://img.shields.io/badge/entrepta-7C6BFF?style=for-the-badge&logo=react&logoColor=white)](https://entrepta.vercel.app/)
 [![wristkit](https://img.shields.io/badge/wristkit-000000?style=for-the-badge&logo=apple&logoColor=white)](https://wristkit-web.vercel.app/)
+
+![Profile views](https://komarev.com/ghpvc/?username=imnotannamaria&color=3E34B8&style=flat-square)
